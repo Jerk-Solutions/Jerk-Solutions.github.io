@@ -1,14 +1,14 @@
 # Site settings
 title: Jerk Solutions
 email: jerk.solutions@gmail.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+url: https://jerk-solutions.github.io
+description: "Jerk solutions.. We make stuff. Sometimes it works... "
+keywords: "Jerk solutions, Jerk, solutions, Keiko, node, nodejs, chai, chai-as-promised, puppeteer"
+skills: "We make stuff. Sometimes it works...</br> We try to not be jerks about it"
+meta_author: Solutions Jerk
 
 # Google webmaster tools
-google_verify:
+google_verify: google-site-verification=hHCb5k13TwpwrH0VyhuqQ3C1JnsiXS_XIIDnfUjhtuI
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
@@ -21,11 +21,11 @@ contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+# disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
+  primary: 80B3FF #18bc9c
   primary-rgb: "24,288,156" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
@@ -48,12 +48,12 @@ social:
 #  - title: bitbucket
 #    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jerk.solutions
+    url: http://github.com/jerk-solutions
 
 # Postal address (add as many lines as necessary)
 address:
 #  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Chandigarh, India
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
@@ -61,16 +61,3 @@ credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a
 # Build settings
 markdown: kramdown
 permalink: pretty
-
----
-layout: default
-modal-id: 1
-date: 2014-07-18
-img: cabin.png
-alt: image-alt
-project-date: July 2014
-client: The Client
-category: Web Development
-description: The description of the project
-
----
