@@ -61,3 +61,16 @@ credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: cabin.png
+alt: image-alt
+project-date: July 2014
+client: The Client
+category: Web Development
+description: The description of the project
+
+---
